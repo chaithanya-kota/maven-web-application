@@ -4,7 +4,7 @@
 	
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>war</packaging>
 	
 	<name>maven-web-application</name>
@@ -104,7 +104,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>krishna-s </name>
+	      <name>krishna </name>
 	      <url>http://15.206.70.189:8081/repository/maven-Snapshot/</url>
 	    </snapshotRepository>
 	    
